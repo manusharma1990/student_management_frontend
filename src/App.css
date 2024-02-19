@@ -1,0 +1,14 @@
+.margin{
+    margin-bottom: 2px;
+}
+.downbar{
+    background-color:cyan;
+    position: relative;
+    margin-left: 50px;
+    margin-top: 150px;
+    align-self: center;
+    width: 800px;
+    height: 60px;
+    text-align: center;
+    
+}
